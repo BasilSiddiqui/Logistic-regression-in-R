@@ -47,6 +47,6 @@ install.packages("cowplot")
 
 The final output of the analysis is a **scatter plot** of predicted probabilities for heart disease.
 
-![Heart Disease Prediction Plot](heart_disease_probabilities.pdf)
+![Heart Disease Prediction Plot](Logistic regression.png)
 
 ---
